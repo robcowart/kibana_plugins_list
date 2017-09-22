@@ -1,3 +1,5 @@
+# Kibana Plugins
+
 It isn't always easy to find Kibana plugins, so I wanted to make a list of all of the plugins that I am aware of.
 
 NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin interfaces are in a state of constant development. Plugin developers should release a new version of their plugin for each new Kibana release as a result.
@@ -45,5 +47,4 @@ NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin i
 | [ob-kb-funnel](https://github.com/outbrain/ob-kb-funnel) | Visualization plugin for displaying a funnel Based on D3 Funnel lib |
 | [ob-kb-percent](https://github.com/outbrain/ob-kb-percent) | Visualization plugin for displaying a single ratio (percent) metric. Customize the numerator and denominator of the calculation. |
 | [timeline_heatmap](https://github.com/JacobBrandt/timeline_heatmap) | A visualization that uses swimlanes to visualize multiple sources over time. Each swimlane represents a source and the intervals of the date histogram are colored based on the metric defined at the given time. |
-| [kibana-vis-dropdown](https://github.com/robcowart/kibana-vis-dropdown) | A dropdown visualization which allows users to set filters from a list of values. |
 | [kibana-logbrowser](https://github.com/searchtechnologies/kibana-logbrowser) | The Search Technologies Log Browser |
