@@ -17,6 +17,7 @@ NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin i
 [kibana_markdown_doc_view](https://github.com/sw-jung/kibana_markdown_doc_view) | &#10003; | &#10003; | A plugin for custom doc view using markdown+handlebars template.
 [kbn_searchtables](https://github.com/dlumbrer/kbn_searchtables) | &#10003; | &#10003; | Build tables and search with an input without applying filters.
 [ob-kb-percent](https://github.com/outbrain/ob-kb-percent) | &#10003; | &#10003; | Visualization plugin for displaying a single ratio (percent) metric. Customize the numerator and denominator of the calculation.
+[kibana-object-format](https://github.com/istresearch/kibana-object-format) | &#10003; | &#10003; | This plugin enables you to configure field formatters for arrays of objects in the Discover tab and Search tables in dashboards.
 [kibana-html-plugin-6.1.1](https://github.com/jaydabhi17/kibana-html-plugin-6.1.1) |  | &#10003; | HTML plugin for Kibana 6.1.1
 [analyze-api-ui-plugin](https://github.com/johtani/analyze-api-ui-plugin) |  | &#10003; | UI for elasticsearch analyze API
 [kibana-vis-dropdown](https://github.com/robcowart/kibana-vis-dropdown) | &#10003; |  | A dropdown visualization which allows users to set filters from a list of values.
@@ -32,7 +33,6 @@ NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin i
 [kibi_radar_vis](https://github.com/sirensolutions/kibi_radar_vis) | &#10003; |  | A Radar (or Spider) Chart plugin.
 [kibi_timeline_vis](https://github.com/sirensolutions/kibi_timeline_vis) | &#10003; |  | The plugin displays a timeline of events taken from multiple saved searches.
 [kibana-pivot-table](https://github.com/datavoyagerhk/kibana-pivot-table) | &#10003; |  | Pivot tables are interactive tables that allow the user to group and summarize large amounts of data in a concise. Basically a wrapper of Nicolas Kruchten's Pivot Table.
-[kibana-object-format](https://github.com/istresearch/kibana-object-format) | &#10003; |  | This plugin enables you to configure field formatters for arrays of objects in the Discover tab and Search tables in dashboards.
 [kibana_health_metric_vis](https://github.com/clamarque/kibana_health_metric_vis) | &#10003; |  | Plugin to change the color of the metric depending on the state of health.
 [mapster](https://github.com/elastickent/mapster/network) | &#10003; |  | Live events map. Mapster is not truely in real-time. It fetches the events from ElasticSearch using Kibana and replays the events in real time with a lag corresponding to the Kibana refresh time.
 [sentinl](https://github.com/sirensolutions/sentinl) | &#10003; |  | Kibi + Kibana Alert & Report App for Elasticsearch.
