@@ -20,6 +20,7 @@ NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin i
 [kibana-object-format](https://github.com/istresearch/kibana-object-format) | &#10003; | &#10003; | This plugin enables you to configure field formatters for arrays of objects in the Discover tab and Search tables in dashboards.
 [kibana-html-plugin-6.1.1](https://github.com/jaydabhi17/kibana-html-plugin-6.1.1) |  | &#10003; | HTML plugin for Kibana 6.1.1
 [analyze-api-ui-plugin](https://github.com/johtani/analyze-api-ui-plugin) |  | &#10003; | UI for elasticsearch analyze API
+[kibana-datepicker-plugin](https://github.com/C3SL/kibana-datepicker-plugin) |  | &#10003; | This Plugin includes a new Visualization in Kibana to pick date, similar to Kibana's absolute timepicker.
 [kibana-vis-dropdown](https://github.com/robcowart/kibana-vis-dropdown) | &#10003; |  | A dropdown visualization which allows users to set filters from a list of values.
 [kibana_vis_gantt](https://github.com/sasauz/kibana_vis_gantt) | &#10003; |  | Gantt Chart plugin.
 [tk-kibana-vis](https://github.com/e-ucm/tk-kibana-vis) | &#10003; |  | Thomas Kilmann Classification visualization.
@@ -53,6 +54,7 @@ NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin i
 [topology](https://github.com/bahaaldine/topology) | &#10003; |  | Plugin to explore Elasticsearch Topology
 [badges-vis](https://github.com/e-ucm/badges-vis) | &#10003; |  | Display badges and achievements.
 [ob-kb-funnel](https://github.com/outbrain/ob-kb-funnel) | &#10003; |  | Visualization plugin for displaying a funnel Based on D3 Funnel lib
+[radial_heatmap](https://github.com/JacobBrandt/radial_heatmap) | &#10003; |  | Used to render cyclical data.
 [timeline_heatmap](https://github.com/JacobBrandt/timeline_heatmap) | &#10003; |  | A visualization that uses swimlanes to visualize multiple sources over time. Each swimlane represents a source and the intervals of the date histogram are colored based on the metric defined at the given time.
 [tk-kibana-vis](https://github.com/e-ucm/tk-kibana-vis) | &#10003; |  | Thomas Kilmann Classification visualization.
 [kibana-logbrowser](https://github.com/searchtechnologies/kibana-logbrowser) | &#10003; |  | The Search Technologies Log Browser
