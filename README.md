@@ -6,6 +6,7 @@ NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin i
 
  Plugin | 5.x | 6.x | Description
 --- |:---:|:---:| ---
+[kibana-search-widget](https://github.com/michimau/kibana-search-widget) |  | &#10003; | A search bar visualization for use on iframe embedded dashboards.
 [kbn_network](https://github.com/dlumbrer/kbn_network) | &#10003; | &#10003; | Network graph plugin https://dlumbrer.github.io/kbn_network/
 [elastic-ml-alert-plugin](https://github.com/serive/elastic-ml-alert-plugin) |  | &#10003; | Easily create alerts from Machine Learning results.
 [kibana-comments-app-plugin](https://github.com/gwintzer/kibana-comments-app-plugin) | &#10003; | &#10003; | Add comment annotations to your Kibana dashboards.
