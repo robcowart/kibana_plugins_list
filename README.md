@@ -6,8 +6,10 @@ NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin i
 
  Plugin | 5.x | 6.x | Description
 --- |:---:|:---:| ---
-[kibana-search-widget](https://github.com/michimau/kibana-search-widget) |  | &#10003; | A search bar visualization for use on iframe embedded dashboards.
 [kbn_network](https://github.com/dlumbrer/kbn_network) | &#10003; | &#10003; | Network graph plugin https://dlumbrer.github.io/kbn_network/
+[cohort](https://github.com/elo7/cohort) | &#10003; | &#10003; | Cohort analysis chart plugin
+[keycloak-kibana](https://github.com/novomatic-tech/keycloak-kibana) | &#10003; | &#10003; | A Keycloak authorization plugin for Kibana.
+[kibana-search-widget](https://github.com/michimau/kibana-search-widget) |  | &#10003; | A search bar visualization for use on iframe embedded dashboards.
 [elastic-ml-alert-plugin](https://github.com/serive/elastic-ml-alert-plugin) |  | &#10003; | Easily create alerts from Machine Learning results.
 [kibana-comments-app-plugin](https://github.com/gwintzer/kibana-comments-app-plugin) | &#10003; | &#10003; | Add comment annotations to your Kibana dashboards.
 [kibana-swimlane-vis](https://github.com/prelert/kibana-swimlane-vis) | &#10003; | &#10003; | The original Prelert Swimlane Visualization! |
@@ -19,6 +21,9 @@ NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin i
 [kbn_searchtables](https://github.com/dlumbrer/kbn_searchtables) | &#10003; | &#10003; | Build tables and search with an input without applying filters.
 [ob-kb-percent](https://github.com/outbrain/ob-kb-percent) | &#10003; | &#10003; | Visualization plugin for displaying a single ratio (percent) metric. Customize the numerator and denominator of the calculation.
 [kibana-object-format](https://github.com/istresearch/kibana-object-format) | &#10003; | &#10003; | This plugin enables you to configure field formatters for arrays of objects in the Discover tab and Search tables in dashboards.
+[kibana-gdpr-plugin](https://github.com/gingerwizard/kibana-gdpr-plugin) |  | &#10003; | A GDPR plugin for cookie acceptance and privacy link
+[kibana-xlsx-import](https://github.com/kyushy/kibana-xlsx-import) | &#10003; | &#10003; | Kibana plugin for import XLSX/CSV file to ElasticSearch
+[searchbox](https://github.com/zumo64/searchbox) | &#10003; | &#10003; | Search Tool Kibana Plugin
 [kibana-html-plugin-6.1.1](https://github.com/jaydabhi17/kibana-html-plugin-6.1.1) |  | &#10003; | HTML plugin for Kibana 6.1.1
 [analyze-api-ui-plugin](https://github.com/johtani/analyze-api-ui-plugin) |  | &#10003; | UI for elasticsearch analyze API
 [kibana-datepicker-plugin](https://github.com/C3SL/kibana-datepicker-plugin) |  | &#10003; | This Plugin includes a new Visualization in Kibana to pick date, similar to Kibana's absolute timepicker.
@@ -30,7 +35,6 @@ NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin i
 [area3d_vis](https://github.com/JuanCarniglia/area3d_vis) | &#10003; |  | 3D Graph Visualization
 [kbn_percent_nice_vis](https://github.com/JuanCarniglia/kbn_percent_nice_vis) | &#10003; |  | This is a Metric visualization that allows displaying an image to show the % (For instance, 50% equals a half-empty/half-full (depending on your mood) glass of wine).
 [kbn_picture_values_vis](https://github.com/JuanCarniglia/kbn_picture_values_vis) | &#10003; |  | This is a Metric visualization that actually goes a little beyond the metric visualization currentyl shipped with Kibana.
-[cohort](https://github.com/elo7/cohort) | &#10003; |  | Cohort analysis chart plugin
 [kibana_ext_metrics_vis](https://github.com/ommsolutions/kibana_ext_metrics_vis) | &#10003; |  | Based on the core Metric-Plugin but gives you the ability to output custom aggregates on metric-results by using custom formula and/or JavaScript.
 [kibi_radar_vis](https://github.com/sirensolutions/kibi_radar_vis) | &#10003; |  | A Radar (or Spider) Chart plugin.
 [kibi_timeline_vis](https://github.com/sirensolutions/kibi_timeline_vis) | &#10003; |  | The plugin displays a timeline of events taken from multiple saved searches.
