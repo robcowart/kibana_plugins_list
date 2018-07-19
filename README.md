@@ -6,6 +6,7 @@ NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin i
 
  Plugin | 5.x | 6.x | Description
 --- |:---:|:---:| ---
+[Prometheus Exporter](https://github.com/pjhampton/kibana-prometheus-exporter) | | &#10003; | Prometheus metrics for Kibana https://github.com/pjhampton/kibana-prometheus-exporter
 [kbn_network](https://github.com/dlumbrer/kbn_network) | &#10003; | &#10003; | Network graph plugin https://dlumbrer.github.io/kbn_network/
 [cohort](https://github.com/elo7/cohort) | &#10003; | &#10003; | Cohort analysis chart plugin
 [keycloak-kibana](https://github.com/novomatic-tech/keycloak-kibana) | &#10003; | &#10003; | A Keycloak authorization plugin for Kibana.
