@@ -21,6 +21,7 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [elastic-ml-alert-plugin](https://github.com/serive/elastic-ml-alert-plugin) |  | &#10003; | Easily create alerts from Machine Learning results.
 [computed-columns](https://github.com/seadiaz/computed-columns) | &#10003; |  | Visualization plugin like a table but with computed columns
 [enhanced_tilemap](https://github.com/nreese/enhanced_tilemap) | &#10003; |  | Mapping visualization
+[kable](https://github.com/lmangani/kibana-kable) |  |  &#10003; | Kable App and Query Language
 [kanban_vis](https://github.com/Echolee-L/kanban_vis) | &#10003; |  | A plugin for displaying data by status(or other field).
 [kbn_c3js_vis](https://github.com/mstoyano/kbn_c3js_vis) | &#10003; |  | This plugin uses C3JS library (D3-based charts).
 [kbn_circles_vis](https://github.com/JuanCarniglia/kbn_circles_vis) |  |  | This is a Circles Packing diagram visType.
