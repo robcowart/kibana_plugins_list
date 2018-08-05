@@ -2,7 +2,9 @@
 
 It isn't always easy to find Kibana plugins, so I wanted to make a list of all of the plugins that I am aware of.
 
-NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin interfaces are in a state of constant development. Plugin developers should release a new version of their plugin for each new Kibana release as a result.
+> NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin interfaces are in a state of constant development. Plugin developers should release a new version of their plugin for each new Kibana release as a result.
+
+> &#11088; Denotes plugins that I have personally found to be very useful.
 
  Plugin | 5.x | 6.x | Description
 --- |:---:|:---:| ---
@@ -17,7 +19,8 @@ NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin i
 [Data-visualization-export](https://github.com/paraponera/Data-visualization-export) |  | &#10003; | A kibana plugin to build a custom table without metrics from the data stored in the ES indexes. It will show all indices in the ES instance, and all columns in the index to build the custom table. The table can be exported as CSV.
 [dendrogram_vis](https://github.com/JuanCarniglia/dendrogram_vis) | &#10003; |  | Dendrogram visualization plugin 
 [elastic-ml-alert-plugin](https://github.com/serive/elastic-ml-alert-plugin) |  | &#10003; | Easily create alerts from Machine Learning results.
-[health_metric_vis](https://github.com/DeanF/health_metric_vis) | &#10003; |  | A metric-like visualization, that changes colors according to numbers.
+[computed-columns](https://github.com/seadiaz/computed-columns) | &#10003; |  | Visualization plugin like a table but with computed columns
+[enhanced_tilemap](https://github.com/nreese/enhanced_tilemap) | &#10003; |  | Mapping visualization
 [kanban_vis](https://github.com/Echolee-L/kanban_vis) | &#10003; |  | A plugin for displaying data by status(or other field).
 [kbn_c3js_vis](https://github.com/mstoyano/kbn_c3js_vis) | &#10003; |  | This plugin uses C3JS library (D3-based charts).
 [kbn_circles_vis](https://github.com/JuanCarniglia/kbn_circles_vis) |  |  | This is a Circles Packing diagram visType.
@@ -41,6 +44,7 @@ NOTE: Not all plugins will work with all versions of Kibana. The Kibana plugin i
 [kibana-datepicker-plugin](https://github.com/C3SL/kibana-datepicker-plugin) |  | &#10003; | This Plugin includes a new Visualization in Kibana to pick date, similar to Kibana's absolute timepicker.
 &#11088; [kibana-datasweet-formula](https://github.com/datasweet-fr/kibana-datasweet-formula) | &#10003; | &#10003; | Allows calculated metrics on any standard kibana visualizations.
 [kibana_diagram](https://github.com/lmangani/kibana_diagram) |  | &#10003; | Experimental Flow Diagram Vis.
+&#11088; [kibana-enhanced-table](https://github.com/fbaligand/kibana-enhanced-table) | &#10003; | &#10003; | Kibana visualization like a Data Table, but with enhanced features like computed columns and filter bar.
 [kibana-esri-heatmap](https://github.com/ReneU/kibana-esri-heatmap) |  | &#10003; | Heatmap Visualization Plugin
 [kibana_ext_metrics_vis](https://github.com/ommsolutions/kibana_ext_metrics_vis) | &#10003; |  | Based on the core Metric-Plugin but gives you the ability to output custom aggregates on metric-results by using custom formula and/or JavaScript.
 [kibana-fixed-filter](https://github.com/gwintzer/kibana-fixed-filter) |  | &#10003; | A plugin to fix the position of the dashboard filter element at the top of viewport when you scroll.
