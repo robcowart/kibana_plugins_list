@@ -61,6 +61,7 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [kibana-pivot-table](https://github.com/datavoyagerhk/kibana-pivot-table) | &#10003; |  | Pivot tables are interactive tables that allow the user to group and summarize large amounts of data in a concise. Basically a wrapper of Nicolas Kruchten's Pivot Table.
 [kibana-plugin-gauge-sg](https://github.com/sbeyn/kibana-plugin-gauge-sg) | &#10003; |  |A gauge plugin
 [kibana-plugin-metric-percent](https://github.com/amannocci/kibana-plugin-metric-percent) | &#10003; |  | The visualization displays a percent number based on a global number and various values.
+[kibana-prometheus-exporter](https://github.com/pjhampton/kibana-prometheus-exporter) |  | &#10003; | Prometheus metrics for Kibana
 [kibana-search-widget](https://github.com/michimau/kibana-search-widget) |  | &#10003; | A search bar visualization for use on iframe embedded dashboards.
 [kibana-slider-plugin](https://github.com/raystorm-place/kibana-slider-plugin) | &#10003; |  | Slider input control plugin
 &#11088; [kibana-swimlane-vis](https://github.com/prelert/kibana-swimlane-vis) | &#10003; | &#10003; | The original Prelert Swimlane Visualization! |
