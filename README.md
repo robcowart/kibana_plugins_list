@@ -18,8 +18,8 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [country-flag-fieldformatters](https://github.com/nabilbendafi/country-flag-fieldformatters) | &#10003; |  | Country flag FieldFormat plugin which uses flag-icon-css
 [Data-visualization-export](https://github.com/paraponera/Data-visualization-export) |  | &#10003; | A kibana plugin to build a custom table without metrics from the data stored in the ES indexes. It will show all indices in the ES instance, and all columns in the index to build the custom table. The table can be exported as CSV.
 [dendrogram_vis](https://github.com/JuanCarniglia/dendrogram_vis) | &#10003; |  | Dendrogram visualization plugin 
+[elastalert-kibana-plugin](https://github.com/bitsensor/elastalert-kibana-plugin) |  | &#10003; | Create, test and edit ElastAlert rules within Kibana.
 [elastic-ml-alert-plugin](https://github.com/serive/elastic-ml-alert-plugin) |  | &#10003; | Easily create alerts from Machine Learning results.
-[computed-columns](https://github.com/seadiaz/computed-columns) | &#10003; |  | Visualization plugin like a table but with computed columns
 [enhanced_tilemap](https://github.com/nreese/enhanced_tilemap) | &#10003; |  | Mapping visualization
 [kable](https://github.com/lmangani/kibana-kable) |  |  &#10003; | Kable App and Query Language
 [kanban_vis](https://github.com/Echolee-L/kanban_vis) | &#10003; |  | A plugin for displaying data by status(or other field).
