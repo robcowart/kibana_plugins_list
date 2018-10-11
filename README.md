@@ -72,9 +72,9 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [kibana-vis-timeline](https://github.com/ReneU/kibana-vis-timeline) |  | &#10003; | Timeline Visualization
 [kibana-viz-clock](https://github.com/MichalHecko/kibana-viz-clock) | &#10003; |  | Digital clock visualization plugin
 [kibana-xlsx-import](https://github.com/kyushy/kibana-xlsx-import) | &#10003; | &#10003; | Kibana plugin for import XLSX/CSV file to ElasticSearch
+[KibanaNestedSupportPlugin](https://github.com/ppadovani/KibanaNestedSupportPlugin) | &#10003; |  | Adds support for nested field search and aggregation.
 [kibi_radar_vis](https://github.com/sirensolutions/kibi_radar_vis) | &#10003; |  | A Radar (or Spider) Chart plugin.
 [kibi_timeline_vis](https://github.com/sirensolutions/kibi_timeline_vis) | &#10003; |  | The plugin displays a timeline of events taken from multiple saved searches.
-[KNQL](https://github.com/ppadovani/KibanaNestedSupportPlugin) | &#10003; | | Nested object support in Kibana
 [logtrail](https://github.com/sivasamyk/logtrail) | &#10003; | &#10003; | View, search & live tail log events
 &#11088; [mapster](https://github.com/OmniCyberSecurity/mapster) | &#10003; | &#10003; | Live events map. Mapster is not truely in real-time. It fetches the events from ElasticSearch using Kibana and replays the events in real time with a lag corresponding to the Kibana refresh time.
 [mathlion](https://github.com/fermiumlabs/mathlion) | &#10003; |  | Mathlion is an advanced math plugin for Kibana's Timelion http://mathlion.docs.fermiumlabs.com
