@@ -57,7 +57,8 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [kibana-iframe-communicator-plugin](https://github.com/bondib/kibana-iframe-communicator-plugin) | &#10003; |  | A plugin to demonstrate how one can communicate directly with Kibana hosted inside an IFrame, without the need to reload the iframe.
 [kibana-logbrowser](https://github.com/searchtechnologies/kibana-logbrowser) | &#10003; |  | The Search Technologies Log Browser
 [kibana_markdown_doc_view](https://github.com/sw-jung/kibana_markdown_doc_view) | &#10003; | &#10003; | A plugin for custom doc view using markdown+handlebars template.
-[kibana-milestones-vis](https://github.com/walterra/kibana-milestones-vis) | | &#10003; | Kibana Milestones Visualization.
+[kibana-milestones-vis](https://github.com/walterra/kibana-milestones-vis) |  | &#10003; | Kibana Milestones Visualization.
+[kibana-mithril](https://github.com/codingchili/kibana-mithril) | &#10003; | &#10003; | Kibana nodejs/hapi plugin adds support for LDAP and 2-factor OTP authentication to dashboards.
 [kibana_notification_center](https://github.com/sw-jung/kibana_notification_center) | &#10003; | &#10003; | This plugin helps you to use Kibana's notifications more usefully.
 [kibana-object-format](https://github.com/istresearch/kibana-object-format) | &#10003; | &#10003; | This plugin enables you to configure field formatters for arrays of objects in the Discover tab and Search tables in dashboards.
 [kibana-pivot-table](https://github.com/datavoyagerhk/kibana-pivot-table) | &#10003; |  | Pivot tables are interactive tables that allow the user to group and summarize large amounts of data in a concise. Basically a wrapper of Nicolas Kruchten's Pivot Table.
