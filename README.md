@@ -40,14 +40,14 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 &#11088; [kibana_calendar_vis](https://github.com/aaronoah/kibana_calendar_vis) |  | &#10003; |  | This plugin gives a calendar heatmap visualization in Kibana Visualize app.
 [kibana-chord](https://github.com/datavis-tech/kibana-chord) |  |  |  | A Chord Diagram visualization
 [kibana-clock-vis-plugin](https://github.com/gmatheus/kibana-clock-vis-plugin) |  | &#10003; |  | Clock visualization
-&#11088; [kibana-comments-app-plugin](https://github.com/gwintzer/kibana-comments-app-plugin) | &#10003; | &#10003; |  | Add comment annotations to your Kibana dashboards.
+&#11088; [kibana-comments-app-plugin](https://github.com/gwintzer/kibana-comments-app-plugin) | &#10003; | &#10003; | &#10003; | Add comment annotations to your Kibana dashboards.
 [kibana-d3-sankey](https://github.com/ReneU/kibana-d3-sankey) |  | &#10003; |  | Sankey Visualization
 [kibana-datepicker-plugin](https://github.com/C3SL/kibana-datepicker-plugin) |  | &#10003; |  | This Plugin includes a new Visualization in Kibana to pick date, similar to Kibana's absolute timepicker.
 &#11088; [kibana-datasweet-formula](https://github.com/datasweet-fr/kibana-datasweet-formula) | &#10003; | &#10003; | &#10003; | Allows calculated metrics on any standard kibana visualizations.
 [kibana_diagram](https://github.com/lmangani/kibana_diagram) |  | &#10003; |  | Experimental Flow Diagram Vis.
 &#11088; [kibana-enhanced-table](https://github.com/fbaligand/kibana-enhanced-table) | &#10003; | &#10003; | &#10003; | Kibana visualization like a Data Table, but with enhanced features like computed columns and filter bar.
 [kibana-esri-heatmap](https://github.com/ReneU/kibana-esri-heatmap) |  | &#10003; |  | Heatmap Visualization Plugin
-[kibana_ext_metrics_vis](https://github.com/ommsolutions/kibana_ext_metrics_vis) | &#10003; |  |  | Based on the core Metric-Plugin but gives you the ability to output custom aggregates on metric-results by using custom formula and/or JavaScript.
+[kibana_ext_metrics_vis](https://github.com/ommsolutions/kibana_ext_metrics_vis) | &#10003; |  | &#10003; | Based on the core Metric-Plugin but gives you the ability to output custom aggregates on metric-results by using custom formula and/or JavaScript.
 [kibana-fixed-filter](https://github.com/gwintzer/kibana-fixed-filter) |  | &#10003; |  | A plugin to fix the position of the dashboard filter element at the top of viewport when you scroll.
 [kibana-gdpr-plugin](https://github.com/gingerwizard/kibana-gdpr-plugin) |  | &#10003; | &#10003; | A GDPR plugin for cookie acceptance and privacy link.
 &#11088; [kibana_graph](https://github.com/lmangani/kibana_graph) | &#10003; | &#10003; |  | Interactive Network Graph Visualization.
@@ -68,7 +68,7 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [kibana-search-widget](https://github.com/michimau/kibana-search-widget) |  | &#10003; |  | A search bar visualization for use on iframe embedded dashboards.
 [kibana-slider-plugin](https://github.com/raystorm-place/kibana-slider-plugin) | &#10003; |  |  | Slider input control plugin
 &#11088; [kibana-swimlane-vis](https://github.com/prelert/kibana-swimlane-vis) | &#10003; | &#10003; | &#10003; | The original Prelert Swimlane Visualization! |
-[kibana-time-plugin](https://github.com/nreese/kibana-time-plugin) | &#10003; | &#10003; |  | Provides controls for setting and animating time ranges.
+[kibana-time-plugin](https://github.com/nreese/kibana-time-plugin) | &#10003; | &#10003; | &#10003; | Provides controls for setting and animating time ranges.
 &#11088; [kibana-vega-vis](https://github.com/nyurik/kibana-vega-vis) | &#10003; | &#10003; |  | Allows any data visualizations from Elasticsearch and other data sources using Vega grammar. You can even create a visualization on top of an interactive map.
 &#11088; [kibana-vis-dropdown](https://github.com/AnnaGerber/kibana_dropdown) | &#10003; | &#10003; |  | A dropdown visualization which allows users to set filters from a list of values.
 [kibana_vis_gantt](https://github.com/sasauz/kibana_vis_gantt) | &#10003; |  |  | Gantt Chart plugin.
@@ -91,5 +91,5 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [timelion-prometheus](https://github.com/lmangani/timelion-prometheus) |  | &#10003; |  | Experimental Prometheus plugin for Timelion.
 [tk-kibana-vis](https://github.com/e-ucm/tk-kibana-vis) | &#10003; |  |  | Thomas Kilmann Classification visualization.
 [topology](https://github.com/bahaaldine/topology) | &#10003; |  |  | Plugin to explore Elasticsearch Topology
-[TrafficLightVisKibana6](https://github.com/snuids/TrafficLightVisKibana6) |  | &#10003; |  | A traffic lights visualisation panel that can be split on multiple lines.
+[TrafficLightVisKibana6](https://github.com/snuids/TrafficLightVisKibana6) |  | &#10003; | &#10003; | A traffic lights visualisation panel that can be split on multiple lines.
 [wafermap](https://github.com/guanghaofan/wafermap)  |  | &#10003; | &#10003; | Visualize the wafer sort testing wafer map.
