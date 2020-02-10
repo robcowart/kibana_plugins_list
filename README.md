@@ -51,7 +51,7 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [kibana-fixed-filter](https://github.com/gwintzer/kibana-fixed-filter) |  | &#10003; |  | A plugin to fix the position of the dashboard filter element at the top of viewport when you scroll.
 [kibana-gdpr-plugin](https://github.com/gingerwizard/kibana-gdpr-plugin) |  | &#10003; | &#10003; | A GDPR plugin for cookie acceptance and privacy link.
 &#11088; [kibana_graph](https://github.com/lmangani/kibana_graph) | &#10003; | &#10003; |  | Interactive Network Graph Visualization.
-[kibana_health_metric_vis](https://github.com/clamarque/kibana_health_metric_vis) | &#10003; | &#10003; |  | Plugin to change the color of the metric depending on the state of health.
+[kibana_health_metric_vis](https://github.com/clamarque/kibana_health_metric_vis) | &#10003; | &#10003; | &#10003; | Plugin to change the color of the metric depending on the state of health.
 [kibana-html-plugin](https://github.com/raystorm-place/kibana-html-plugin) | &#10003; |  |  | HTML visualization plugin
 [kibana-html-plugin-6.1.1](https://github.com/jaydabhi17/kibana-html-plugin-6.1.1) |  | &#10003; |  | HTML plugin for Kibana 6.1.1
 [kibana-iframe-communicator-plugin](https://github.com/bondib/kibana-iframe-communicator-plugin) | &#10003; |  |  | A plugin to demonstrate how one can communicate directly with Kibana hosted inside an IFrame, without the need to reload the iframe.
@@ -74,7 +74,7 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [kibana_vis_gantt](https://github.com/sasauz/kibana_vis_gantt) | &#10003; |  |  | Gantt Chart plugin.
 [kibana-vis-timeline](https://github.com/ReneU/kibana-vis-timeline) |  | &#10003; |  | Timeline Visualization
 [kibana-viz-clock](https://github.com/MichalHecko/kibana-viz-clock) | &#10003; |  |  | Digital clock visualization plugin
-[kibana-xlsx-import](https://github.com/kyushy/kibana-xlsx-import) | &#10003; | &#10003; | &#10003; | Kibana plugin for import XLSX/CSV file to ElasticSearch
+[kibana-xlsx-import](https://github.com/Orange-OpenSource/kibana-xlsx-import) | &#10003; | &#10003; | &#10003; | Kibana plugin for import XLSX/CSV file to ElasticSearch
 [KibanaNestedSupportPlugin](https://github.com/ppadovani/KibanaNestedSupportPlugin) | &#10003; | &#10003; |  | Adds support for nested field search and aggregation.
 [kibi_radar_vis](https://github.com/sirensolutions/kibi_radar_vis) | &#10003; |  |  | A Radar (or Spider) Chart plugin.
 [kibi_timeline_vis](https://github.com/sirensolutions/kibi_timeline_vis) | &#10003; |  |  | The plugin displays a timeline of events taken from multiple saved searches.
