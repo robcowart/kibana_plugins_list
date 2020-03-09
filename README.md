@@ -93,3 +93,13 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [topology](https://github.com/bahaaldine/topology) | &#10003; |  |  | Plugin to explore Elasticsearch Topology
 [TrafficLightVisKibana6](https://github.com/snuids/TrafficLightVisKibana6) |  | &#10003; | &#10003; | A traffic lights visualisation panel that can be split on multiple lines.
 [wafermap](https://github.com/guanghaofan/wafermap)  |  | &#10003; | &#10003; | Visualize the wafer sort testing wafer map.
+
+# Getting Started with the Elastic Stack
+
+If you are new to the Elastic Stack, this video goes beyond a simple default installation of Elasticsearch and Kibana. It discusses real-world best practices for hardware sizing and configuration, providing production-level performance and reliability.
+
+[![0003_es_install](https://user-images.githubusercontent.com/10326954/76195457-9ea2d580-61e8-11ea-8578-8fb39908afec.png)](https://www.youtube.com/watch?v=gZb7HpVOges)
+
+Additionally local SSD storage should be considered as _*mandatory*_! For an in-depth look at how different storage options compare, and in particular how bad HDD-based storage is for Elasticsearch (even in multi-drive RAID0 configurations) you should watch this video...
+
+[![0001_es_storage](https://user-images.githubusercontent.com/10326954/76195348-61d6de80-61e8-11ea-951d-1694d2e0392b.png)](https://www.youtube.com/watch?v=nKUpfJCBiS4)
