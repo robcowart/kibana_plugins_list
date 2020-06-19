@@ -16,7 +16,7 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 &#11088; [cohort](https://github.com/elo7/cohort) | &#10003; | &#10003; |  | Cohort analysis chart plugin
 [computed-columns](https://github.com/seadiaz/computed-columns) | &#10003; |  |  | Visualization plugin like a table but with computed columns
 [country-flag-fieldformatters](https://github.com/nabilbendafi/country-flag-fieldformatters) | &#10003; | &#10003; | &#10003; | Country flag FieldFormat plugin which uses flag-icon-css
-[custom-css-for-dashboards](https://github.com/aaron-nimocks/kibana-dashboard-custom-css) | | | &#10003; | CSS editor that appends the CSS to the associated dashboard
+&#11088; [custom-css-for-dashboards](https://github.com/aaron-nimocks/kibana-dashboard-custom-css) | | | &#10003; | CSS editor that appends the CSS to the associated dashboard
 [Data-visualization-export](https://github.com/paraponera/Data-visualization-export) |  | &#10003; |  | A kibana plugin to build a custom table without metrics from the data stored in the ES indexes. It will show all indices in the ES instance, and all columns in the index to build the custom table. The table can be exported as CSV.
 [dendrogram_vis](https://github.com/JuanCarniglia/dendrogram_vis) | &#10003; |  |  | Dendrogram visualization plugin 
 [elastalert-kibana-plugin](https://github.com/bitsensor/elastalert-kibana-plugin) |  | &#10003; | &#10003; | Create, test and edit ElastAlert rules within Kibana.
