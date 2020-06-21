@@ -94,7 +94,7 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [topology](https://github.com/bahaaldine/topology) | &#10003; |  |  | Plugin to explore Elasticsearch Topology
 [TrafficLightVisKibana6](https://github.com/snuids/TrafficLightVisKibana6) |  | &#10003; | &#10003; | A traffic lights visualisation panel that can be split on multiple lines.
 [wafermap](https://github.com/guanghaofan/wafermap)  |  | &#10003; | &#10003; | Visualize the wafer sort testing wafer map.
-[custom-form-filter](https://github.com/guyplusplus/Kibana-Plugin-Custom-Form-Filter-Visualization) | | | &#10003; | Base visualization to create custom form via React EUI to control query and time filters. The README has also a step-by-step guide for beginners to setup and create plugins.
+[custom-form-filter](https://github.com/guyplusplus/Kibana-Plugin-Custom-Form-Filter-Visualization) | | | &#10003; | Base visualization plugin to create custom form via React EUI to control the query and time filters. The README has also a step-by-step guide for beginners to setup a simple dev environment and create plugins.
 
 # Getting Started with the Elastic Stack
 
