@@ -17,6 +17,7 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [computed-columns](https://github.com/seadiaz/computed-columns) | &#10003; |  |  | Visualization plugin like a table but with computed columns
 [country-flag-fieldformatters](https://github.com/nabilbendafi/country-flag-fieldformatters) | &#10003; | &#10003; | &#10003; | Country flag FieldFormat plugin which uses flag-icon-css
 &#11088; [custom-css-for-dashboards](https://github.com/aaron-nimocks/kibana-dashboard-custom-css) | | | &#10003; | CSS editor that appends the CSS to the associated dashboard
+[custom-form-filter](https://github.com/guyplusplus/Kibana-Plugin-Custom-Form-Filter-Visualization) | | | &#10003; | Base visualization plugin to create via simple coding custom form via React EUI to control the query and time filters. The plugin has no legacy libs included, it is fully NP compliant. The README has also a step-by-step guide for beginners how to set up a simple development environment to create plugins.
 [Data-visualization-export](https://github.com/paraponera/Data-visualization-export) |  | &#10003; |  | A kibana plugin to build a custom table without metrics from the data stored in the ES indexes. It will show all indices in the ES instance, and all columns in the index to build the custom table. The table can be exported as CSV.
 [dendrogram_vis](https://github.com/JuanCarniglia/dendrogram_vis) | &#10003; |  |  | Dendrogram visualization plugin 
 [elastalert-kibana-plugin](https://github.com/bitsensor/elastalert-kibana-plugin) |  | &#10003; | &#10003; | Create, test and edit ElastAlert rules within Kibana.
@@ -94,7 +95,6 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [topology](https://github.com/bahaaldine/topology) | &#10003; |  |  | Plugin to explore Elasticsearch Topology
 [TrafficLightVisKibana6](https://github.com/snuids/TrafficLightVisKibana6) |  | &#10003; | &#10003; | A traffic lights visualisation panel that can be split on multiple lines.
 [wafermap](https://github.com/guanghaofan/wafermap)  |  | &#10003; | &#10003; | Visualize the wafer sort testing wafer map.
-[custom-form-filter](https://github.com/guyplusplus/Kibana-Plugin-Custom-Form-Filter-Visualization) | | | &#10003; | Base visualization plugin to create custom form via React EUI to control the query and time filters. The README has also a step-by-step guide for beginners to setup a simple dev environment and create plugins.
 
 # Getting Started with the Elastic Stack
 
