@@ -42,6 +42,7 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 &#11088; [kibana_calendar_vis](https://github.com/aaronoah/kibana_calendar_vis) |  | &#10003; |  | This plugin gives a calendar heatmap visualization in Kibana Visualize app.
 [kibana-chord](https://github.com/datavis-tech/kibana-chord) |  |  |  | A Chord Diagram visualization
 [kibana-clock-vis-plugin](https://github.com/gmatheus/kibana-clock-vis-plugin) |  | &#10003; |  | Clock visualization
+[kibana_cohort_np_plugin](https://github.com/synapticielfactory/kibana_cohort_np_plugin) |  |  | &#10003; | Kibana Cohort analysis chart plugin
 &#11088; [kibana-comments-app-plugin](https://github.com/gwintzer/kibana-comments-app-plugin) | &#10003; | &#10003; | &#10003; | Add comment annotations to your Kibana dashboards.
 [kibana-d3-sankey](https://github.com/ReneU/kibana-d3-sankey) |  | &#10003; |  | Sankey Visualization
 [kibana-datepicker-plugin](https://github.com/C3SL/kibana-datepicker-plugin) |  | &#10003; |  | This Plugin includes a new Visualization in Kibana to pick date, similar to Kibana's absolute timepicker.
@@ -85,9 +86,10 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [mathlion](https://github.com/fermiumlabs/mathlion) | &#10003; |  |  | Mathlion is an advanced math plugin for Kibana's Timelion http://mathlion.docs.fermiumlabs.com
 [ob-kb-funnel](https://github.com/outbrain/ob-kb-funnel) | &#10003; | &#10003; |  | Visualization plugin for displaying a funnel Based on D3 Funnel lib
 [ob-kb-percent](https://github.com/outbrain/ob-kb-percent) | &#10003; | &#10003; |  | Visualization plugin for displaying a single ratio (percent) metric. Customize the numerator and denominator of the calculation.
+[pivot-kibana](https://github.com/flexmonster/pivot-kibana) |  |  | &#10003; | Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting.
 [radial_heatmap](https://github.com/JacobBrandt/radial_heatmap) | &#10003; |  |  | Used to render cyclical data.
 [searchbox](https://github.com/zumo64/searchbox) | &#10003; | &#10003; | &#10003; | Search Tool Kibana Plugin
-&#11088; [sentinl](https://github.com/sirensolutions/sentinl) | &#10003; | &#10003; |  | Kibi + Kibana Alert & Report App for Elasticsearch.
+&#11088; [sentinl](https://github.com/lmangani/sentinl) | &#10003; | &#10003; |  | Kibi + Kibana Alert & Report App for Elasticsearch.
 [timeline_heatmap](https://github.com/JacobBrandt/timeline_heatmap) | &#10003; |  |  | A visualization that uses swimlanes to visualize multiple sources over time. Each swimlane represents a source and the intervals of the date histogram are colored based on the metric defined at the given time.
 [timelion-influxdb](https://github.com/lmangani/timelion-influxdb) |  | &#10003; |  | Experimental InfluxDB plugin for Timelion.
 [timelion-prometheus](https://github.com/lmangani/timelion-prometheus) |  | &#10003; |  | Experimental Prometheus plugin for Timelion.
